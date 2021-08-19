@@ -56,3 +56,17 @@
     }
 ?>
 
+
+<br/>
+
+<?php
+    //Exo 6
+    $age = 25;
+
+    if ($age >= 18){
+        echo "vous être majeur";
+    }
+    else {
+        echo "Vous êtes Mineurs";
+    }
+?>
